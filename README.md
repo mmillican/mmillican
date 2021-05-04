@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm a model railroad geek and have an N-scale layout.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmillican&layout=compact&hide=html" alt="IEvangelist" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmillican&layout=compact&hide=html" alt="mmillican's most used languages" />
 
 
 <!-- - 👯 I’m looking to collaborate on ... -->
