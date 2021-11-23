@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 Currently working on ASP.NET Core, Vue.js, AWS
-- 🛠  Building a new railroad photo archive application (ASP.NET Core, Vue.js, Node, AWS)
+- 🛠  Building a [membership management system and achievement tracker](https:///github.com/member-pro) (ASP.NET Core, Vue.js, Node, AWS)
 - 🌱 Currently learning *all the things*
 - 💬 Ask me about: ASP.NET Core, Vue.JS, AWS, Trains, Model Railroads
 - 📫 How to reach me: https://twitter.com/millicanmatt
