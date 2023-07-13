@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 🌱 Currently learning *all the things*
 - 💬 Ask me about: ASP.NET Core, Vue.JS, AWS, Trains, Model Railroads
 - 📫 How to reach me: https://twitter.com/millicanmatt
-- 🔎 Find me on <a rel="me" href="https://hachyderm.io/@mmillican">Mastodon</a>
+- 🔎 Find me on <a rel="me" href="https://hachyderm.io/@mattmillican">Mastodon</a>
 - ⚡ Fun fact: I'm a model railroad geek and have an N-scale layout.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmillican&layout=compact&hide=html" alt="mmillican's most used languages" />
